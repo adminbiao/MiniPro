@@ -32,7 +32,7 @@ def log_conf():
 base_url = "http://e.cn/api/v1"
 
 # 微信code
-code = "081YJtGa1IJMLz0cQ9Ja14tmcs2YJtGl"
+code = "0718Ik200EMruK14P3200UueyP18Ik2V"
 
 # 请求头
 headers = {
